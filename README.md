@@ -19,3 +19,5 @@ Furthermore, the user has a selection method so that they can identify an object
 The program contains the following additional functions: 
 - Undo and Redo
 - Save a partially completed drawing
+
+Main File : Sketch
