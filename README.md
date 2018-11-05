@@ -7,7 +7,7 @@ The program layout consists mainly of a 2D drawing space along with the ability 
 - A mode to draw rectangles 
 - A mode to draw ellipses 
 - A mode to draw special cases of these (squares and circles) 
-- A mode to draw polygons (open and closed polygons) 
+- A mode to draw polygons
 
 In addition, the user is able to select a colour for any of the graphical objects that are about to be drawn. 
 
